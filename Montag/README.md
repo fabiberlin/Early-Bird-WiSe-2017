@@ -119,7 +119,7 @@ Wir werden noch nicht die Eingabe von Werten benutzen (es sei denn ihr könnt es
   Brutto: 5117.000000
   ```
 
-4. __Shop__ - Ein kleines Kassensystem. Ihr habt einen Shop, wo Schrauben für 10 Cent, Muttern für 4 Cent und Unterlegscheiben für 1 Cent anbeboten werden. Das Tool soll den Benutzer fragen, wieviel er von jedem Artikel wünscht. Am Ende soll der Gesamtpreis ausgerechnet werden. Zudem kann eine Benachritichigung eingebaut werden, wenn mehr Schrauben als Muttern gekauft wurden.
+4. __Shop__ - Ein kleines Kassensystem. Ihr habt einen Shop, wo Schrauben für 10 Cent, Muttern für 4 Cent und Unterlegscheiben für 1 Cent anbeboten werden. Das Tool soll den Benutzer fragen, wieviel er von jedem Artikel wünscht. Am Ende soll der Gesamtpreis ausgerechnet werden. Zudem kann eine Benachrichtigung eingebaut werden, wenn mehr Schrauben als Muttern gekauft wurden.
   ```bash
   Anzahl Schrauben: 46
   Anzahl Muttern: 32
